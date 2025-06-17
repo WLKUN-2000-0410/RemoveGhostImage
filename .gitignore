@@ -1,3 +1,10 @@
 # 忽略 opencv 文件夹及其所有内容
 opencv/
 x64/Release/opencv_world490.dll
+
+*.opendb
+*.db
+*.iobj
+*.ipdb
+*.pdb
+.vs/

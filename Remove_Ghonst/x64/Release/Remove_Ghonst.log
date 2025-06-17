@@ -1,0 +1,16 @@
+﻿  main.cpp
+  main2.cpp
+main2.cpp(131): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+main2.cpp(144): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+main2.cpp(265): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+main2.cpp(294): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+main2.cpp(297): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+main2.cpp(335): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+main2.cpp(338): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+main2.cpp(352): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+main2.cpp(446): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  All 394 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Remove_Ghonst.vcxproj -> D:\01_WLKUN_PROJECT_NEW_NEW_NEW\20250612-ReomveGhost\Remove_Ghonst\x64\Release\Remove_Ghonst.exe
+  Remove_Ghonst.vcxproj -> D:\01_WLKUN_PROJECT_NEW_NEW_NEW\20250612-ReomveGhost\Remove_Ghonst\x64\Release\Remove_Ghonst.pdb (Full PDB)
